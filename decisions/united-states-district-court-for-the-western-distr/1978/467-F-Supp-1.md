@@ -1,0 +1,31 @@
+---
+court: "United States District Court for the Western District of Missouri"
+docket: "78-0121-CV-W-1"
+decided: "1978-03-14"
+citations: ["467 F. Supp. 1"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Donald E. McGAUGHEY, Petitioner, v. UNITED STATES of America, Respondent."]
+source_url: "https://static.case.law/f-supp/467/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4066436
+cites_cases: ["18 U.S.C. § 3653", "18 U.S.C. § 4205", "18 U.S.C. § 495", "18 U.S.C. §§ 371", "250 F. 566", "28 U.S.C. § 1915", "28 U.S.C. § 2255", "374 F.Supp. 680", "385 F.2d 58", "404 U.S. 519", "503 F.2d 1081", "508 F.2d 719"]
+---
+
+# McGaughey v. United States
+
+## Majority (JOHN W. OLIVER, Chief Judge.)
+
+MEMORANDUM AND ORDER
+JOHN W. OLIVER, Chief Judge.
+Petitioner, presently confined at the United States Penitentiary, Leavenworth, Kansas, has filed a pro se motion to vacate sentence pursuant to 28 U.S.C. § 2255. He asserts that the revocation of his probation on 7 January 1977 was illegal.
+Before turning to the merits of petitioner’s claim, it is necessary to summarize his involvement with this and other federal courts. In 1969, petitioner entered guilty pleas in the District of Nebraska to five indictments alleging a total of 29 violations of 18 U.S.C. §§ 371, 495, and 2314. Judge Van Pelt, who accepted the pleas, imposed concurrent five year sentences on 25 of the 29 counts, and suspended imposition of sentence on the remaining four, one each from four of the five indictments. Petitioner received concurrent five year terms of probation on these four counts, all to begin upon release from prison. Petitioner was conditionally discharged from federal custody on 1 December 1972, and his probation began on that day.
+Jurisdiction over petitioner’s probation was transferred to this Court on 6 January 1975 and accepted on 10 March 1975. Approximately one year later, the government filed a motion to revoke petitioner’s probation in Number 75 CR 84-W-1, one of the four cases transferred from the District of Nebraska. Petitioner appeared, admitted the violations, and was ordered to serve 180 days at the Municipal Correctional Institution and participate in its alcohol therapy program. On unopposed motion of petitioner, the Court reduced the 180 day period of confinement to 98 days on 7 September. No action was taken regarding petitioner’s probation in the three other cases transferred to this Court.
+On 22 October 1976, petitioner was again charged with probation violations, including possession of a firearm, assault with a firearm, and visiting a liquor store in violation of special probation conditions. After advice from counsel, petitioner admitted the offenses and was committed to the United States Medical Center for Federal Prisoners for study and evaluation pursuant to 18 U.S.C. § 4205(c). On 7 January 1977, petitioner returned to the Court for final sentencing. Probation was revoked in cases 75 CR 90-W-1, 75 CR 91-W-1, and 75 CR 92-W-1, and the Court sentenced petitioner to three year concurrent sentences in each case. Petitioner is now confined under authority of that decision.
+In this petition, McGaughey asserts that the commitment order of 7 January 1977 is illegal because “the Court was without power to reinstate Petition [sic] on probation after previous revocation and sentencing.” Construing this ambiguous claim liberally, Haines v. Kerner, 404 U.S. 519, 92 S.Ct. 594, 30 L.Ed.2d 652 (1973), petitioner apparently contends the revocation of probation and sentencing in 75 CR 84 automatically terminated probation in 75 CR 90, 91, and 92. Thus, says petitioner, the Court’s action in 75 CR 84 barred further revocation proceedings against him in the other three cases.
+It is clear from 18 U.S.C. § 3653 that the sentences imposed on 7 January 1977 were permissible, if otherwise valid. Under § 3653, if imposition of sentence was suspended at the time of original sentencing, the court revoking probation may impose “any sentence which might originally have been imposed.” Court records transferred from the District of Nebraska show that Judge Van Pelt suspended imposition of sentence on the three counts embodied in cases 75 CR 90, 91, and 92 at the time of original sentencing. The maximum permissible sentence for a violation of 18 U.S.C. § 371, the crime charged in case 75 CR 90, is five years imprisonment and a $10,000 fine. The maximum permissible penalty for violation of 18 U.S.C. § 495, the offense charged in cases 75 CR 91 and 92, is ten years imprisonment and a $1000 fine. The three year sentences imposed by this Court at the January 1977 revocation proceeding were well within the permissible statutory limits. Thus, they did not violate § 3653.
+It is also clear that revocation of probation in case 75 CR 84 did not automatically terminate the probation terms imposed in cases 75 CR 90, 91 and 92. Concurrent probation terms are indistinguishable from concurrent sentences: completion or invalidity of one term has no effect on otherwise valid concurrent terms based upon different crimes because each has an independent factual and legal basis. See Owensby v. United States, 385 F.2d 58 (10th Cir. 1967); see also Daeche v. United States, 250 F. 566 (C.C.A.N.Y.1918). In fact, incarceration on the revocation charges in 75 CR 84 may have tolled the running of petitioner’s other probation terms for the period he was confined. See United States v. Lancer, 508 F.2d 719 (3rd Cir. 1975); United States v. Strada, 503 F.2d 1081 (8th Cir. 1974), aff’g D.C., 374 F.Supp. 680. The sentences imposed at the 7 January 1977 proceeding were valid, and petitioner’s earlier confinement in case 75 CR 84 had no effect on the sentences imposed in the January proceeding. Petitioner’s claims of illegality are frivolous, and they will be dismissed as such. 28 U.S.C. § 1915(d).
+For the reasons stated above, it is
+ORDERED that this petition, provisionally filed pursuant to the standard practice of this Court should be and it is hereby dismissed pursuant to 28 U.S.C. § 1915(d).
+. Petitioner was also sentenced to 180 days imprisonment for contempt. That conviction is not challenged in this petition.
