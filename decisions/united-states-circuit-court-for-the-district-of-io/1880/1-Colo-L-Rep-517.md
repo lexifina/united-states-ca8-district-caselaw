@@ -1,0 +1,37 @@
+---
+court: "United States Circuit Court for the District of Iowa"
+decided: "1880"
+citations: ["1 Colo. L. Rep. 517"]
+reporter: "colo-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["OGILVIE v. CRAWFORD COUNTY."]
+source_url: "https://static.case.law/colo-l-rep/1/cases/0517-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12136819
+cites_cases: ["21 Ohio, 605"]
+---
+
+# Ogilvie v. Crawford County
+
+## Majority (Love, District Judge.)
+
+Love, District Judge.
+This case is before the court on demurrer to the petition. The petition alleges that the plaintiff, who is a citizen of Canada, had, on January 1, 1879, certain cribs of corn, which had been purchased in Crawford county, Iowa, for the purpose of shipment to Canada; that said corn had been moved by the plaintiff. from its places of production toward its destination beyond the state, and temporarily placed in cribs; that it was in cribs awaiting shipment by the Chicago and Northwestern Railway, on the 1st day of January, 1879; that the plaintiff’s intention was at all times to move said corn in bulk beyond the state, and not to sell or manufacture the same within the state of Iowa; and that the corn has since been removed in bulk out of the state, no part of the same having been sold, used or manufactured therein.
+It is alleged further, that while the corn was so temporarily in cribs, it was assessed as property of a non-resident, a tax upon the same levied, and a warrant issued to the sheriff, whereby the plaintiff was compelled, in order to save his property, to pay the taxes levied as aforesaid.
+There is a second count stating different circumstances, but presenting the same question.
+The petition prays judgment for the amount of taxes paid, amounting to $502.22, with interest.
+The question thus presented is, whether or not the property taxed, was on the 1st day of January, 1879, when it was assessed for taxation, in the course of transportation from the state of Iowa, to any other state or country, as an article of commerce? In a word, was it in commercial transit ?
+That a state cannot levy a tax upon property in transit to other states and countries, is clear; because the property then has no situs in the state in the proper legal sense of that word. It would be a most serious evil and a direct obstruction to interstate commerce for any state to exercise the power of taxing property while in commercial transit to other states or countries.
+The question then is, was the property in commercial transit? The petition is not as clear and explicit as it might be, but the fair construction of it is, that the plaintiff having purchased the corn from various parties, caused it to be removed to the railway, and there put it in cribs, temporarily, to await transportation, and with the purpose on his part, to have it carried beyond the state.
+This allegation' of intention is essential, because otherwise a purchaser might crib his corn on a railway, with no purpose of immediate shipment, but for the purpose of awaiting the future course of the markets, or with intent to evade taxation, in which cases the transit would, in my opinion, be treated as at an end, for the time being at least. If this were not so, a party might keep his property in cribs near a railroad for an indefinite period of time, exempt from taxation, without any purpose of immediate shipment.
+There must be, in my judgment, a purpose to ship immediately, or at least as soon as transportation can be conveniently obtained, followed up by actual shipment in a reasonable time, in order to exempt the property from taxation.
+With this qualification, the cribbing of the corn maybe treated as a thing done from necessity or for convenience in the course of transportation.
+It certainly would be unreasonable to require that a party, in order to bring himself within the protection of the law as a shipper in transitu, should transfer the corn directly from his wagons to the cars, or place it upon the ground, to be thence transferred tó the cars; and this he would be compelled to do, unless he may place it in cribs, or store it, temporarily, in warehouses, to await the means of shipment in the ordinary course of transportation.
+It would seriously cripple and obstruct commerce in the productions of this state, and thus inflict a great injury upon our own people, if a purchaser could not temporarily deposit the property purchased, in cribs or warehouses, to await the means of transportation.
+I have examined the cases cited by the defendant’s counsel, and I cannot see that any of them touch this case at all, except Carrier v. Gordon, reported in 21 Ohio, 605.
+That case is similar to the present, but clearly distinguishable from it; indeed, if the language of the court in deciding it be well considered, the reason of case supports our judgment in the present case.
+In Carrier v. Gordon, the property purchased had not been moved at all by the purchaser. It remained at the place of purchase, and could not, without the utmost violence to language, be said to have been in the course of transportation. Indeed, the averment was not that the property was in transit, but that the plaintiff intended to remove it from the state upon the opening of navigation, etc. In delivering the opinion the court say:
+“It is true, that in order to constitute it property in the state, .within the, meaning of the law, it must have a situs in the state. If it is at the time the tax attaches in transitu, either through the state, or from a point in the state to a point outside the state, it is not to be regarded as property in the state, within the meaning of the statute, but as property belonging to the place of its destination. But such was not the situation of this property at the time it was returned for taxation. There is nothing in the plaintiff’s petition to show that the plaintiff’s timber had in any sense started on its journey, or had been removed from the place or places where it had been purchased.”
+“ To say, that the simple purchase of the property, with an intention to remove it, would relieve it from liability to taxation, would be to make its liability depend upon the mere intention of the owner, etc.”
+We see nothing to object to in the doctrine of the Ohio court in this case. It seems to us to be entirely in harmony with our judgment in the present case. Demurrer overruled.
