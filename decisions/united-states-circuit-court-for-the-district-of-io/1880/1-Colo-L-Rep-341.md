@@ -1,0 +1,30 @@
+---
+court: "United States Circuit Court for the District of Iowa"
+decided: "1880-10"
+citations: ["1 Colo. L. Rep. 341"]
+reporter: "colo-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BURDICK v. PETERSON."]
+source_url: "https://static.case.law/colo-l-rep/1/cases/0341-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12131794
+---
+
+# Burdick v. Peterson
+
+## Majority (McCrary, Circuit Judge.)
+
+McCrary, Circuit Judge.
+This court has several times held that the petition for removal, or the record of the cause in the state court, under the act of 1875, must show the citizenship of the parties at the time of the commencement of the suit.
+Assuming the correctness of that general rule, we are to inquire, how does it affect this case ?
+The removal here was upon the petition of Tollman, the inter-venor, who became the owner of all the interest of the original defendant by a purchase at judicial sale, made after this suit was brought, and had been for some time pending, but before trial. The petition for removal was filed simultaneously with the petition of intervention, and the allegation is, that the intervenor was a citizen of New York at the time of filing the petition, or, in other words, at the time he became a party to the suit. Of course, his citizenship, before he became a party, is unimportant, so far as this question is concerned. If he had the right to remove at all, it was manifestly sufficient to aver the citizenship of the parties at the time that right accrued—that is to say, at the time he became a party to the suit. The only question to be considered, therefore, is, whether a party who, in good faith, becomes the owner of property pending a litigation concerning the title thereto in a state court, and who, by proper means, makes himself a party to the cause in such court before trial, is entitled to the benefits of the provisions of the act of March 3, 1875, relating to the removal of causes.
+In other words, if such a party be a non-resident of the state, has he, when coming into the case by intervention, the sarhe right of removal that he would have had if originally a party plaintiff or defendant?
+The statute provides, that, in any suit of a civil nature brought in any state court, involving over $500, in which there shall be a controversy between citizens of different states, “either party may remove said suit into the circuit court of the United States,” etc. (Sec. 2, Act March 3, 1875.)
+Wright, Gatch & Wright, for the motion.
+Charles A. Clark, animus curia, contra.
+Can we with propriety limit the application of the words, “either party,” to the original plaintiff and defendant?
+I think not. The act applies to all bona fide litigants in the state courts, whether made parties originally or not. “ Either party,” whether plaintiff, defendant or intervenor, may remove a cause by showing the necessary facts. It follows from this that, as to an intervenor, it is enough to show the citizenship of the parties at the time of his intervention, for as to him, that is the commencement or bringing of the suit. But the above cited section of the act of 1875 further provides, that when, in any suit mentioned in the section, “there shall be a controversy which is wholly between citizens of different states, and which can be fully determined as between them, then either one or more of the plaintiffs or defendants, actually interested in such controversy, may remove said suit to the circuit court of the United States for the proper district.”
+This clause very clearly applies to a controversy between the original plaintiff and an intervenor who may be brought in in the course of the litigation and before trial. It is enough if the controversy described is in the suit; there is no requirement that it shall be between original parties. The interveñor became a defendant, within the meaning of this clause, and since there was very clearly a controversy between him and the plaintiff, in which the original defendant had no interest, and which could be fully determined as between them, the right of removal existed.
+If the petition for removal had not been filed until after the intervention, it would, upon the principle of the cases heretofore decided by this court, have been necessary to aver the citizenship of the parties at the time of intervention, but inasmuch as the petition to intervene and the petition for removal were filed at one and the same time, I am of the opinion that the use of the present tense in the latter was sufficient. It is not necessary to determine whether the motion is in time (having been made after judgment), since, independently of that question, it must be overruled.
+So ordered.
