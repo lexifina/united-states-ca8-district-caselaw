@@ -1,0 +1,31 @@
+---
+court: "United States District Court for the District of Nebraska"
+docket: "2579"
+decided: "1934-12-06"
+citations: ["9 F. Supp. 170"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re KALINA."]
+source_url: "https://static.case.law/f-supp/9/cases/0170-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4142398
+---
+
+# In re Kalina
+
+## Majority (MUNGER, District Judge.)
+
+MUNGER, District Judge.
+In this ease the debtor, Joseph W. Kalina, filed a petition in this court, under section 75 (c) of the Bankruptcy Act, as amended (11 U. S. Code 203 (c), 11 USCA § 203 (c), alleging that he was personally engaged primarily in farming operations, that he was unable to meet his debts as they matured, and that he desired to effect a composition or extension of time to pay his debts. He has now presented an application to restrain the sheriff of Pawnee county, Neb., and D. P. Dow from executing a writ of assistance issued by the district court of Pawnee county. In response to an order to these respondents to show cause why an injunction should not be issued, as prayed, the parties have made a response, and the ease has been submitted Upon the application and response and the supporting papers, and upon the evidence offered. It appears that, long prior to the filing of the debtor’s petition in this court, a suit had been begun in the state court by D. P. Dow, as plaintiff, and against Joseph W. Kalina and others, as defendants, seeking the foreclosure of a mortgage upon the land of Kalina. A decree of foreclosure had been entered, and the property had been offered for sale under the decree by the sheriff of the county, and the bid of D. P. Dow, as the purchaser at the sale, had been a septed. The state court had made an order confirming the sale, but containing a provision (see Comp. St. Supp. Neb. 1933, § 20-1531) that the sheriff should execute a deed to the purchaser, unless Kalina should pay to Dow the sum of $18,000 in six weeks. Afterwards the state court granted to Kalina an additional time, and until the further order of the court, in which to obtain the $18,000. After these proceedings had been had, Kalina filed the petition in this court, under section 75 (e) of the Bankruptcy Act, as amended.
+This petition was approved by this court as properly filed, and the ease was referred to the conciliation commissioner (General Orders in Bankruptcy No. 50, subd. 2 (11 US CA § 53). After this petition was filed, the state court made an order confirming the sheriff’s sale of the land and directing that a writ of assistance should be issued, and the sheriff executed and delivered to D. P. Dow a deed to the land pursuant to this order of the court, and this deed was duly filed for record. There were some subsequent proceedings in the state court, by which Kalina sought to appeal to the Supreme Court of Nebraska. A writ of assistance was issued out of the state court for the purpose of putting the purchaser in possession of the land, and it is against the execution of this writ, as well as against further proceedings under the foreclosure decree, that the injunction is sought.
+Section 75 (o) of the Bankruptcy Act, as amended (11 U. S. Code § 203 (o), 11 USCA § 203 (o), provides as follows:
+“(o) Except upon petition made to and granted by the judge after hearing and report by the conciliation commissioner, the following proceedings shall not be instituted, or if instituted at any time prior to the filing of a petition under this section, shall not be maintained, in any court or otherwise, against the farmer or his property, at any time after the filing of the petition under this section, and prior to the confirmation or other disposition of the composition or extension proposal by the court:
+“.(1) Proceedings for any demand, debt, or account, including any money demand;
+“(2) Proceedings for foreclosure of a mortgage on land, or for cancellation, rescission, or specific performance of an agreement for sale of land or for recovery of possession of land;
+“(3) Proceedings to acquire title to land by virtue of any tax sale;
+“(4) Proceedings by way of execution, attachment, or garnishment;
+“(5) Proceedings to sell land under or in satisfaction of any judgment or mechanic’s lien; and
+“(6) Seizure, distress, sale, or other proceedings under an execution or under any lease, lien, chattel mortgage, conditional sale agreement, crop payment agreement, or mortgage.”
+The files and records in this case do not show that there has been a confirmation or other disposition of any composition or extension proposal by the debtor, or that there has been any grant of permission by this court for the institution or maintenance of any proceeding against the debtor or his property in the state court.
+On behalf of the sheriff and D. P. Dow, as respondents to the application for the injunction, it is urged that this section of the Bankruptcy Act does not apply, because the confirmation of sale terminated the title of the debtor to the property involved, and vested the title in D. P. Dow as the purchaser. By the terms of the section above quoted, the proceedings which may not be instituted or maintained are described as those “against the farmer or his property” and “in any court or otherwise” and are not confined to those that are against his property or to proceedings in court. The proceedings covered by section 75 (o) (2), as amended, 11 USCA § 203 (o) (2), include those “for recovery of possession of land,” and the execution of the writ of assistance would bo a proceeding for the recovery of the possession of land from the petitioner. In this view it is unnecessary to determine at this time the effect of the proceedings in the state court after the debt- or’s petition was filed in this court. Some objections have been made based upon the theory that section 75 (s) of the Bankruptcy Act (11 USCA § 203 (s) is unconstitutional legislation, but it does not appear that the debtor has taken any proceedings under section 75 (s). An injunction will be granted against further proceedings under the writ of assistance, unless the permission of the court of bankruptcy is first obtained pursuant to the terms of section 75 (o), as amended.
