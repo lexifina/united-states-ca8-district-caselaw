@@ -1,0 +1,44 @@
+---
+court: "United States District Court for the District of Iowa"
+decided: "1880-10"
+citations: ["1 Colo. L. Rep. 390"]
+reporter: "colo-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Miller, Circuit Judge, concurs."]
+parties: ["KAEISER v. ILLINOIS CENTRAL RAILROAD CO."]
+source_url: "https://static.case.law/colo-l-rep/1/cases/0390-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12132974
+cites_cases: ["95 U. S., 183"]
+---
+
+# Kaeiser v. Illinois Central Railroad
+
+## Majority (McCrary, Circuit Judge.)
+
+McCrary, Circuit Judge.
+It was settled by the case Insurance Company v. Pechner, 95 U. S., 183, that, under the twelfth section of the judiciary act of 1789 (embodied in Sec. 639 of the Revised Statutes), a cause cannot be removed from a state to a federal court, unless the petition for removal or the record of the cause affirmatively shows that, at the time of the commencement of the suit, the parties were citizens of different states. The right of removal was held to be statutory, and it was decided that, before a party can avail himself of it to oust the jurisdiction of a state court, he must show upon the record that his case is one which comes within the provisions of the statute. It is also clear, upon the authority of the case just cited, as well as upon well settled principles, that the removal of the record of a cause from a state court into this court, where neither the petition for removal nor the record shows that the case is removable, is an utterly void proceeding, which neither confers jurisdiction upon this court, nor takes it from the state court.
+Under the act above cited, the fact of the citizenship of the parties at the time of the commencement of the suit, is jurisdictional, and must, in every case, appear in the record. The fact that it may exist in pais is of no importance, since the court cannot look beyond the record to ascertain it, and, if it did, could not in that way acquire jurisdiction.
+That the parties might have made a showing upon which the case could have been removed cannot avail them, if they have not. in fact, done so.
+The rule which requires that in the federal courts all jurisdictional facts shall appear in the record, applies with even greater force to causes removed from the state courts than to those originally commenced in the federal courts. In causes removed, the federal court must look to the record, not only to ascertain whether it has acquired jurisdiction, but also to.determine whether another court of co-ordinate powers has been deprived of it. If, therefore, this application to remove had been made under the provisions of said Sec. 639 of the Revised Statutes, the insufficiency of the proceedings to confer jurisdiction upon this court would be very apparent. While the application states it is made under that section, we must suppose that this statement was inadvertently made, since, by that section, only the defendant can remove a cause, on the ground of the citizenship of the parties, while, as already seen, this application is made by the plaintiff.
+We will therefore consider the application as made under the act of March 3, 1875, which permits a removal upon the application of either party.
+Does this act, like Sec. 639 of the Revised Statutes, require that the record shall disclose the citizenship of the parties at the time of the commencement of the suit?
+The two statutes, so far as they bear upon this question, are not identical in phraseology, but are, I think, substantially identical in meaning. The language of the former is: “Any suit commenced in any state court * * * * may be removed for trial, etc., when the suit is * * * * by a citizen of the state wherein it is brought and against a citizen of another state.” The language of the latter is: “Any suit of a civil nature, at law or in equity, now pending, or hereafter brought in any state court * * * * in which there shall be a controversy between citizens of different states, * * * * * either party may remove,” etc.
+The words “any suit commenced,” in the former act, which have been held by the Supreme Court to fix the time at which it must appear that the parties were citizens of different states, are identical in meaning with the words “hereafter brought,” in the act of 1875.
+The phrases “any suit commenced,” and “any suit brought,” mean precisely the same thing.
+And so the language, “when the suit is by a citizen of a state wherein it is brought, and against a citizen of another state,” found in the former law, must, at least so far as the question now under consideration is concerned, be regarded as equivalent to that in the latter act, “a controversy between citizens of different states.”
+The meaning in both cases is, that the controversy must be between citizens of different states when the suit is commenced or brought.
+It follows, that under the act of 1875, as well as the previous law, a case cannot be removed from a state to a federal court, on the ground of citizenship of the parties, unless it appears from the record, that at the time the suit was commenced, the parties to it were citizens of different states; and as this does not appear from the record in this case, the removal was unauthorized, and this court has no jurisdiction.
+The plaintiff, anticipating this ruling, has moved the court for leave to file an amended transcript. It does not appear whether this is for the purpose of amending the record of the state court so as to conform to the statute, or with a view to showing by a more complete transcript, that the record did in fact disclose the citizenship of the parties at the time of the petition for removal.
+If the latter is the purpose of the plaintiff, there can be no question as to the propriety of permitting the amendment, since it is without doubt his right to correct the transcript so that it will show all that appeared of record in the state court when the order of removal was made; but if the purpose is at this time to change the record of the state court so as to show the facts necessary to authorize the removal, a question of great doubt must arise as to the right of the plaintiff in this way and at this time to bring his case within our jurisdiction.
+It is clear that assuming that we have before us a complete record up to the present moment, the cause has not been removed pit has remained, in contemplation of law, pending in the state court.
+That court might have proceeded to final judgment, notwithstanding the proceeding by which a removal has been attempted.
+The order of the state court purporting to remove the cause, did not divest that court of jurisdiction any more than a refusal to make such an order in a case coming within the law would deprive the federal court of jurisdiction.
+A. B. & J. C. Cummins, and Berryhill & Henry, for plaintiff.
+John F. Duncombe, for defendant.
+The question then is, can the cause be now removed for an amendment of the record at this time so as to show the necessary jurisdictional facts would be equivalent to a removal at this time. With respect to the time of removal the statute provides, that the petition therefor shall be filed in the state court, “before or at the term at which said cause could be first tried;” this means, as has been repeatedly held in this circuit—the term at which by law the cause could first be tried, not necessarily the term at which the parties are ready for trial.
+If it be that this term has not yet passed, a removal is still permitted by the statute; but if it has passed, the question is, whether it is not too late to remove the cause, either by a new petition, or an amendment of the record.
+This question will not necessarily arise until the amended transcript is presented, and is therefore not finally passed upon.
+Leave is granted to file an amended transcript, if plaintiff still desires to do so; otherwise, the case will be remanded.
+Miller, Circuit Judge, concurs.
