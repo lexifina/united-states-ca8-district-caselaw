@@ -1,0 +1,34 @@
+---
+court: "United States District Court for the Western District of Missouri"
+docket: "10065"
+decided: "1955-10-31"
+citations: ["135 F. Supp. 1"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED STATES of America, Plaintiff, v. ONE 1954 CADILLAC 2-DOOR SEDAN, Motor No. 546288694, Defendant, and Franklin H. Weston, Sr., and General Motors Acceptance Corporation, Intervenors."]
+source_url: "https://static.case.law/f-supp/135/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4264207
+---
+
+# United States v. One 1954 Cadillac 2-Door Sedan
+
+## Majority (WHITTAKER, District Judge.)
+
+WHITTAKER, District Judge.
+This case having been transferred, by agreement of the parties, from the Central to the Western Division of this District, came on for trial before the Court on October 17, 1955, and the evidence was fully heard and the cause taken under submission on that day, with leave to counsel to file within 10 days, and they have now filed, briefs in support of their respective positions, all of which I have carefully considered.
+The evidence discloses that in September, 1954,- intervenor, Weston, purchased the Cadillac car in question from Green-lease Motor Car Company, the Cadillac dealer in Kansas City, partly for cash, and the balance by note secured by mortgage upon the car, which mortgage was timely recorded, and which note was purchased by intervenor, General Motors Acceptance Corporation, which is now the owner of it, and upon which a balance of $2,658.70 is due and unpaid.
+The evidence further shows that soon after intervenor Weston’s son, Franklin H. Weston, Jr., was released from the armed services in San Francisco in the 'fall of 1954, he became involved on a narcotics charge there, and the father went to that place and succeeded in getting the son released to him on probation; that subsequently, on March 31, 1955, a Government narcotics agent, Mr. Theo Heisig, went to the father’s home in Kansas City and told him that his son was suspected of using, and probably selling, narcotics, and warned him of the dire consequences of that conduct, and of the danger that, if the son used the father’s automobile in the transportation of narcotics, the automobile would be subject to seizure by, and forfeiture to, the Government, and at that time the father called the son into the conference, and the father testified, but Mr. Heisig denied, that he there told the son that he was not to use the father’s car.
+However, the evidence shows that on two occasions the son did, with special permission of his mother, drive this car to the father’s place of work to pick up and return the father to the home, and that on other occasions the son was given permission to, and did, drive the father’s automobile when accompanied by his mother or his wife.
+The evidence shows that on the early morning of April 24, 1955, the son — who, with his wife, occupied an apartment in the basement of his father’s home — got up from bed, complained to his wife of being nervous, put on a pair of pants and a coat over his pajamas and said he was going out for a walk and some air. He did not return, and later that morning it was discovered by the family that the father’s car was gone.
+The evidence shows, without dispute, that the son, in this automobile, picked up in Kansas City a young man and a young woman and drove to St. Louis and on the return trip was stopped and searched by narcotics agents at Jefferson City, who found 10 grains of heroin —some on the son’s person and some hidden in the car. The car was seized and afterwards libeled, and the father, as owner, and General Motors Acceptance Corporation, as lienor, have intervened herein.
+First, the Government has moved to dismiss for failure of the intervenors to establish, by introduction of a Missouri certificate of title for the car, that it was, in fact, owned by Weston, Sr., at the very time of the seizure and ever since. The answer is that the evidence shows that Weston, Sr., purchased the car from Greenlease Motor Car Company, the Cadillac dealer in Kansas City, and paid for it, partly in cash and partly by the note, now held by General Motors Acceptance Corporation, which evidence went in without objection, and under the law that evidence was sufficient to establish that Weston, Sr., was the “owner”, and, under the law, that status, having been shown, is presumed to have continued until the contrary appears. So the motion of the Government to dismiss on that ground should be, and is, denied.
+Section 782, Title 49, U.S.C.A. under which the Government here properly proceeds, provides, among other things:
+“that no * * * vehicle * * * shall be forfeited under the provisions of this chapter by reason of any act *■ * * established by the owner thereof to have been committed * * * by any person other than such owner while such * * vehicle * * * was unlawfully in the possession of a person who acquired possession thereof in violation of the criminal laws of the United States, or of any State.”
+Counsel for intervenors point to Section 560.175, V.A.M.S., which provides, among other things, that:
+“No person shall drive, operate, use or tamper with a motor vehicle * * * without the permission of the owner thereof”,
+and to Section 560.180, V.A.M.S., which makes violation of Section 560.175 a felony and punishable by imprisonment.
+I find, under the evidence in this case, that Weston, Sr., was the owner of this car; that General Motors Acceptance Corporation had a valid lien on it, at the time seized, in the amount of $2,-658.70; that Weston, Sr., the owner, has established that his son took, without permission, and drove, operated and used, this automobile in transporting heroin on the day in question in violation of Section 560.175, Y.A.M.S., and was unlawfully in the possession of said automobile at the time, in violation of the criminal laws of Missouri.
+The fact — heavily relied upon by the Government — that the son had been permitted by the father to drive this automobile on occasions is without legal significance here, because each of those uses by the son is shown, without contradiction in the evidence, to have been with special permission. There is no evidence to contradict the substantial evidence that the son did not have any permission to use this automobile on the day .or for the trip or for the use that resulted in its seizure, and it follows that the son, under this evidence, had possession of this automobile at the time in violation of the criminal laws of Missouri, namely Section 560.175.
+The result must be, and is, that intervenors are entitled to a decree and judgment in their favor, awarding this automobile to them, and such is the order of the Court, and counsel for intervenors will prepare and submit a decree in accordance herewith.
