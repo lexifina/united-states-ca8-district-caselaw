@@ -1,0 +1,40 @@
+---
+court: "United States District Court for the District of Minnesota"
+docket: "4-76 Civ. 479"
+decided: "1977-04-25"
+citations: ["440 F. Supp. 5"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED STATES of America and Robert J. Pyle, Special Agent of the Internal Revenue Service, Petitioners, v. June MYSLAJEK, Respondent, Irwin L. Pollack and I. L. Pollack & Associates, Inc., Intervenors."]
+source_url: "https://static.case.law/f-supp/440/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3965574
+cites_cases: ["25 L.Ed.2d 651", "26 U.S.C. § 7602", "26 U.S.C. § 7605", "379 U.S. 48", "397 U.S. 1040", "400 U.S. 517", "419 F.2d 1088", "419 F.2d 564", "90 S.Ct. 1361"]
+---
+
+# United States v. Myslajek
+
+## Majority (ALSOP, District Judge.)
+
+MEMORANDUM ORDER
+ALSOP, District Judge.
+This matter comes before the court as a result of the respondent’s answer to the court’s order to show cause why she should not be compelled to testify and to produce the records demanded by Internal Revenue Service (IRS) summonses served on her on August 24, 1976, by petitioner Robert J. Pyle, a special agent of the IRS. The respondent moves to quash the summonses.
+The respondent is an accountant in possession of certain financial records relating to the tax liabilities of the intervenors, Irwin L. Pollack (Pollack) and I. L. Pollack & Associates, Inc. (Associates).
+On April 17, 1975, Mark Cohen, an IRS revenue agent, began an audit of Associates’ 1973 tax return. Cohen later expanded his audit to include the tax years 1972 through 1975. He also began an audit of Pollack individually. During his audits agent Cohen had access to at least some of the financial records relating to the tax liabilities of Pollack and of Associates which were in the respondent’s possession. Agent Cohen made a preliminary determination that additional taxes were due from both Pollack and from Associates and that there were certain “badges of fraud” which had become apparent. Agent Cohen concluded his audit without making any final-determinations as to the amount of additional tax owed, and on July 7, 1976, he filed a fraud referral report. ’
+The respondent contends that the court lacks personal jurisdiction over her. The court cannot agree. The petition and order to show cause are a sufficient means by which the court may acquire personal jurisdiction over a respondent who is summoned to provide testimony and records in an IRS proceeding. United States v. Gajewski, 419 F.2d 1088 (8th Cir. 1969), cert. denied, 397 U.S. 1040, 90 S.Ct. 1361, 25 L.Ed.2d 651 (1970); see also Donaldson v. United States, 400 U.S. 517, 528-29, 91 S.Ct. 534, 27 L.Ed.2d 580 (1971).
+The respondent also contends that the petitioners have failed to establish their entitlement to the documents summoned. In order to enforce an administrative summons issued by the IRS the government must establish
+that the investigation will be conducted pursuant to a legitimate purpose, that the inquiry may be relevant to the purpose, that the information sought is not already within the [IRS’s] possession, and that the administrative steps required by the code have been followed .
+United States v. Powell, 379 U.S. 48, 57-58, 85 S.Ct. 248, 255, 13 L.Ed.2d 112 (1964).
+The respondent first argues that the investigation is not being conducted pursuant to a legitimate purpose because the sole objective for which the summonses were issued is the obtaining of evidence for a possible criminal prosecution. It is clear that an IRS summons may be issued in aid of an investigation if it is issued in good faith and prior to a recommendation for criminal prosecution. Donaldson v. United States, supra 400 U.S. at 536, 91 S.Ct. 534. It is also clear that as yet the IRS has made no recommendation that a criminal prosecution of either Pollack or of Association be initiated. It is irrelevant that the IRS is conducting a criminal investigation because the IRS also has a valid civil tax purpose for the investigation — determining the correct and as yet undetermined civil tax liabilities of Pollack and of Associates. See Donaldson v. United States, supra 400 U.S. at 531-36, 91 S.Ct. 534.
+It is also clear that the IRS has not yet determined the intervenors’ correct tax liabilities. Such a determination is a legitimate purpose. The records sought are relevant to that purpose.
+The respondent next argues that the information sought is already within the IRS’s possession. It is undisputed that the respondent previously provided agent Cohen with certain of the documents which the IRS now seeks. The simple fact that agent Cohen saw some of the financial records on a prior occasion does not mean that the information contained therein is currently within his possession or that of the IRS. The court is convinced that the information which the IRS seeks to glean from the financial records which it has summoned is not information which is currently in the IRS’s possession.
+The respondent finally argues that the IRS has failed to follow the administrative steps required by the Internal Revenue Code. 26 U.S.C. § 7605(b) provides:
+No taxpayer shall be subjected to unnecessary examination or investigations, and only one inspection of a taxpayer’s books of account shall be made for each taxable year unless the taxpayer requests otherwise or unless the Secretary or his delegate, after investigation, notifies the taxpayer in writing that an additional inspection is necessary.
+It is undisputed that neither Pollack nor Associates was given any notice that a second inspection was necessary. The respondent claims that any further examination of the financial records would constitute a second inspection. The petitioners claim that the IRS investigation is a continuing one and that no second inspection notice was required. Although the matter is not free from difficulty, the court concludes that the IRS’s investigation of the tax liabilities of Pollack and of Associates is a continuing one. When an investigation has not been completed, an examination of a taxpayer’s books and records is not a second inspection even though the agents may have seen specific documents on a previous occasion. United States v. Giordano, 419 F.2d 564 (8th Cir. 1969).
+The respondent finally contends that the use of the summons to obtain records concerning Pollack’s 1975 tax liability is improper. 26 U.S.C. § 7602 authorizes the use of summons to obtain a taxpayer’s financial records
+[f]or the purpose of ascertaining the correctness of any return, making a return where none has been made, determining the liability of any person for any internal revenue tax or the liability at law or in equity of any transferee or fiduciary of any person in respect of any internal revenue tax, or collecting any such liability -
+It is undisputed that on August 24, 1976, the date on which the summons for Pollack’s records was served, Pollack had not filed an individual tax return for 1975. It is also undisputed that, because an extension of time in which to file had been granted, Pollack’s 1975 tax return was not yet due.
+The court is convinced that, because the IRS was not attempting to ascertain the correctness of Pollack’s 1975 tax return, its use of a summons to obtain financial records relevant thereto is not authorized.
+Upon the foregoing,
+IT IS ORDERED That the petition for enforcement of the summonses served on the respondent be and hereby is granted, and the respondent shall appear before Robert J. Pyle, an officer of the Internal Revenue Service, at Room 135, Federal Office Building, Third Avenue South and Washington Avenue, Minneapolis, Minnesota, on the 2nd day of May, 1977, at 9:00 A.M., for the purpose of giving testimony and producing financial records in the respondent’s possession relating to the tax liability of I. L. Pollack & Associates, Inc., for the period January 1, 1970, through December 31, 1975, and to the tax liability of Irwin L. Pollack for the period January 1, 1972, through December 31, 1974.
