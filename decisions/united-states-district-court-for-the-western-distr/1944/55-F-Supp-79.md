@@ -1,0 +1,37 @@
+---
+court: "United States District Court for the Western District of Missouri"
+docket: "1731"
+decided: "1944-03-29"
+citations: ["55 F. Supp. 79"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BROCKWAY v. LONG et al."]
+source_url: "https://static.case.law/f-supp/55/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4226116
+cites_cases: ["129 F.2d 655", "281 U.S. 470", "299 U.S. 109", "40 U.S.C.A. § 326", "52 F. Supp. 158"]
+---
+
+# Brockway v. Long
+
+## Majority (REEVES, District Judge.)
+
+REEVES, District Judge.
+This is an action authorized by Section 216, 29 U.S.C.A. referring to Fair Labor Standards. The question for decision is whether, generally, cases under the Fair Labor Standards Act are removable to the federal court and whether, specially,- in this case a federal question was raised by the averments of plaintiff’s petition so as to make the case removable.
+No issue is made with respect to a diversity of citizenship, nor is it contended that the amount in controversy is below the jurisdiction of this court.
+In deciding the case it is necessary to advert to the averments of the complaint. The complaint is entitled “Petition for Wages.” The plaintiff sues in his own behalf and in a representative capacity for others. He incorporated the names of other employees for whom the suit is brought. Pertinent excerpts from the complaint are:
+“Plaintiff states that each of said persons worked more than forty (40) hours per week from October, 1942, to about August 7, 1943, and that none of said persons was paid as provided by said Fair Labor Standards Act, extra half time for all work over forty (40) hoars. Plaintiff states that each of said persons during said time worked seven (7) consecutive days during each week between the above dates; that by reason of Executive Order 9240, issued by Franklin D. Roosevelt, President of the United States, on September 9, 1942, and. amended September 17, 1942, by Executive Order 9248 [40 U.S.C.A. § 326 note], which order became effective October 1, 1942, e'ach of said persons was for each seventh (7th) consecutive day during said period entitled to double time; that each of said persons on said seventh (7th) consecutive day worked eight (8) hours or more.”
+Averring that the defendants failed and refused to compensate the plaintiff and those for whom he sues as contemplated by the Fair Labor Standards Act, he seeks such judgment as is authorized by Section 216.
+The removing defendants urge the contentions hereinbefore set out.
+Both will be noticed.
+1. The broad question whether suits brought under the Fair Labor Standards Act may be removed from a state court, if brought there, to the federal court has been frequently resolved by the district judges but has never been directly determined by the appellate courts.
+District Judge Lovett, for the Southern District of Georgia, in the case of Brantley v. Augusta Ice & Coal Co., D.C., 52 F. Supp. 158, quite thoroughly discussed the question and with commendable industry collated the decisions by the district judges both for and against removal. He discussed every phase of the question and logically answered all of the arguments for removal. His conclusion was that cases of this character were not removable from state courts. It has been the uniform holding of the judges in this district that such cases are not removable. Judge Lovett refers in his opinion to the decisions of this district.
+In the case of Mid-Continent Pipe Line Co. v. Hargrave, 129 F.2d 655, loc. cit. 659, the Court of Appeals, Tenth Circuit, while passing on a case which had actually been removed from a state court, said:
+“State and federal courts are vested with concurrent jurisdiction of suits of a civil nature arising under the laws of the United States, except where Congress has expressly limited jurisdiction to the federal courts.. In the absence of such an express limitation, a state court of general jurisdiction will enforce a right of civil recovery arising under an act of Congress and susceptible of adjudication conformably to the prevailing rules of procedure. Grubb v. Public Utilities Commission of Ohio, 281 U.S. 470, 50 S.Ct. 374, 74 L.Ed. 972. Instead of Congress limiting to the federal courts jurisdiction of an action for the recovery of overtime compensation and liquidated damages under the act, it expressly provided that such an action may be maintained im any court of competent jurisdiction. And the district courts in Oklahoma are courts of general jurisdiction. Section 16(b), supra, and Title 12, section 223, supra, construed together, clearly authorized the maintenance of the action in the state court in the name of the agent, and it was likewise maintainable in that manner after removal.”
+Apparently the question of the right of removal was not agitated before the court. Since both courts had jurisdiction, and in view of the fact that apparently without objection the case was removed or transferred to the federal court, jurisdiction was both possessed and retained. The same situation is presented here. Under the statute the action might have been brought in either court and either court would have had jurisdiction to maintain the action.
+As said by Judge Lovett (Brantley v. Augusta Ice & Coal Co., supra), the clear inference from the statute is that the cases are not removable. It would be within the power of the parties, by agreement either express or implied, however, to transfer the cases from one court to the other as both federal and state courts are clothed with jurisdiction.
+In this case the plaintiff has resisted the removal and as he is entitled to have his action proceed in a state court, the defendants have no right to transfer it to this court.
+2. The other point raised by the removing defendants is whether a federal question appears from the face of plaintiff’s petition. Adverting to the excerpt hereinbefore set out, it will be noticed that the plaintiff asserts rights springing, as he believes, from federal statutes. He does not undertake to put a construction upon said statutes save only to assert a right of recovery under them. Counsel for the removing defendants in their brief indicate that a controversial question would arise because of a reference to a presidential or executive order numbered 9240 and an amendment thereto numbered 9248. Such executive order was authorized by Section 326, 40 U.S.C.A., which refers generally to the subject of “Hours of Labor on Public Works.” Both this statute and the executive order of the President are clear and explicit and apparently harmonize perfectly with the section under which the suit is brought. The fact that the plaintiff seeks a recovery for a greater sum than the executive order would entitle him to recover does not mean that he is raising a federal question. He seeks a recovery under what he conceives to be rights vouchsafed by a clear statute and executive order.
+Apparently the plaintiff anticipated the defense and pleaded in advance the executive order. The effect of the order may limit materially the recovery sought.
+Under Gully v. First Nat. Bank, 299 U.S. 109, loc. cit. 112, 113, 114, 57 S.Ct. 96, 81 L.Ed. 70, a federal question not being raised by plaintiff in his complaint, the case is not removable on that ground. Accordingly, the case will be remanded to the state court from which it was removed.
