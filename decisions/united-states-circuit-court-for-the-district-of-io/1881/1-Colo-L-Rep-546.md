@@ -1,0 +1,57 @@
+---
+court: "United States Circuit Court for the District of Iowa"
+decided: "1881-03"
+citations: ["1 Colo. L. Rep. 546"]
+reporter: "colo-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BROOKS & HARDY v. O’HARA BROS."]
+source_url: "https://static.case.law/colo-l-rep/1/cases/0546-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12137973
+cites_cases: ["12 Cal., 440", "13 Iowa, 188", "13 Iowa, 295", "16 Iowa, 310", "2 Iowa, 55", "20 Conn., 544", "3 Md. Ch., 392"]
+---
+
+# Brooks v. O'Hara Bros.
+
+## Majority (McCrary, Circuit Judge.)
+
+McCrary, Circuit Judge.
+First—The bill does not allege with sufficient particularity that the decree, which is sought to be set aside, was obtained by fraud.
+It alleges in general terms that there was nothing due the respondents on their claim, and it is averred that “the amount sued for by them was for a claimed balance unpaid, which your orators charge, was fraudulent, and that no such balance was due, and that the money paid by said railway company as aforesaid more than paid said respondents for all the work they had ever done for said railway.”
+It is further alleged, that “said supposed balance was made to appear, either by a mistake of all the parties, or by false statements of the amounts, and deception practiced upon the Burlington and Southwestern Railway Company, or its engineer, or by collusion with officers of that company, to defeat and injure the claims represented by your orators, and to defraud the holders of bonds secured by the mortgage of your orators.
+“That said claim was either a mistake, or was false and fraudulent, and based upon no consideration, and upon a claim for work which was never done, and ought never to have been allowed, all of which was unknown to your orators, and with reasonable diligence could not be learned during the pendency of the suit in this court, the only one to which your orators were parties.”
+A bill for relief on the ground of fraud must be specific.
+It is not enough to charge in general terms that a particular transaction was fraudulent.
+The facts constituting the fraud must be stated, so that the court, and not the pleader, may determine whether, if true, they constitute fraud.
+This rule applies to all bills for relief on the ground of fraud, including, of course, a bill to set aside a judgment or decree upon that ground. Story Eq. Pleading, 251, 428; Kerr on Fraud and Mistakes, 365.
+It is also necessary to charge the intent to deceive, either by an express averment or by such words as necessarily imply such intent. Moss v. Riddle, 5 Cr., 351; Gray v. Earl, 13 Iowa, 188.
+The counsel who drafted this bill evidently intended to comply with these rules by inserting the allegations embraced in the second quotation above, wherein it is set forth in effect that the balance due complainant was made to appear either by mistake of all the parties, or by deception practiced upon this railway company, or by collusion with that company.
+By this allegation the complainants say, in substance, that the wrong was done them in one of these three ways, but as to which one, they are unable to say.
+The insufficiency of such an allegation will be very apparent when it is suggested that mistake is one thing, and fraud another, and that the character of the case and nature of the defense would depend very much upon the question whether it is a case of mistake'or a case of fraud that is set out.
+No man can be required to answer and prepare for trial upon a bill which leaves him in doubt as to the exact nature of the case against which he is to defend.
+Hence, the rule that allegations must not be in the alternative. Story Eq. Plead., 245, 245a.
+In view of these considerations, I am constrained to hold that the bill does not set forth the circumstances of the fraud charged with sufficient certainty and particularity.
+Second—The fraud relied upon is charged only upon information and belief.
+An injunction cannot be granted in the first instance upon an allegation of this character.
+It is necessary that the fraud should be made to appear by positive averments, founded on complainant’s own knowledge or that of some person cognizant of the facts. High on Inj., Sec. 35, and cases cited; Id., Sec. 118, and cases cited.
+Third—Another, and much more important question is presented by this record, and has been discussed by counsel.
+This is a bill to set aside a former decree of this court between the same parties and upon the same subject matter.
+It is clear that all questions touching the validity or amount of respondents’ claim were open to investigation in the former suit.
+Issue was joined upon their cross-bill, and testimony was taken and decree was rendered in their favor.
+It was the right and duty of complainants to investigate the character of the claim, and to set up, in that case, whatever defense they had.
+It is not enough to allege that they did not discover the facts in time so to do.
+The only exception to this rule is in cases where, by some wrong act of the successful party, his adversary is deprived of the right to fully present his case. The rule is thus stated by Mr. Justice Miller in United States v. Throckmorton, 98 U. S., p. 65:
+“But there is an admitted exception to this general rule in cases where, by reason of something done by the successful party to a suit, there was, in fact, no adversary trial or decision of the issue in the case.
+“ Where the unsuccessful party has been prevented from exhibiting fully his case, by fraud or deception practiced on 4iim by his opponents, as by keeping him away from court, a false promise of a compromise; or where the defendant never had knowledge of the suit, being kept in ignorance by the acts of the plaintiff; or where an attorney fraudulently, or without authority, assumes to represent a party, and connived at his defeat; or where the attorney, regularly employed, corruptly sells out his client’s interest to the other side. These and similar cases, which show that there has never been a real contest in the trial or hearing of the case, are reasons for which a new suit may be sustained, to set aside and annul the former judgment or decree, and open the case for a new and a fair hearing.
+“See Wells Res Adjudicata, Sec. 499; Pearce v. Olney, 20 Conn., 544; Wierick v. De Toya, 7 Ills., 385; Kent v. Ricards, 3 Md. Ch., 392; Smith v. Lowry, 1 Johns. (N. Y.), Ch., 320; De Louis et al. v. Meek et al., 2 Iowa, 55.”
+The rule is clearly settled, at least so far as the federal courts are concerned, that a judgment will not be set aside upon an original bill, upon the ground that it was founded upon a fraudulent intentment or perjured evidence, when there were no hindrances besides the negligence of the defendant in presenting the defense in the first suit.
+The case of United States v. Throckmorton, supra, is a striking illustration of this rule.
+The judgment attacked in that case had been obtained, as was alleged, upon a grant which had been executed by the former Mexican governor of California, after he had ceased to hold that office, and falsely and fraudulently antedated.
+The case was a strong one, but the court said: “ There was ample time to make all necessary inquiries and produce the necessary proof, if it existed, of the fraud,” in the progress of the original suit; and the bill was held bad on demurrer, because it was the duty of the complainants to ascertain the facts and make their defense in the original suit.
+And the court quote with approval the following rule laid down by Shaw, C. J., in Greene v. Greene, 2 Gray, (Mass.), 361: “The maxim that fraud vitiates every proceeding must be taken, like all other general maxims, to apply to cases where proof of fraud is admissible. But where the same matter has been actually tried, or so in issue that it might have been tried, it is not again admissible. The party is estopped to set up such fraud, because the judgment is the highest evidence and cannot be contradicted.”
+P. Henry Smyth, for complainants.
+Hubbard & Clark, for respondents.
+See also the following authorities, cited by Mr. Justice Miller in same opinion: Dixon v. Graham, 16 Iowa, 310; Cottle v. Cole, 20 Id, 482; Borland v. Thorton, 12 Cal., 440; Biddle v. Baker, 13 Iowa, 295; Railroad Company v. Neal, 1 Wood, 353.
+The demurrer must be sustained, with leave to complainants to amend, if counsel thinks he can bring the case within the principles announced in this opinion.
+So ordered.
