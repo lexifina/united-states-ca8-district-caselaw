@@ -1,0 +1,34 @@
+---
+court: "United States District Court for the Western District of Missouri"
+docket: "5011"
+decided: "1949-04-19"
+citations: ["84 F. Supp. 11"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HAWKEYE CASUALTY CO. v. HARPER et al."]
+source_url: "https://static.case.law/f-supp/84/cases/0011-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 678896
+cites_cases: ["111 U.S. 176", "130 F.2d 208", "28 U.S.C. § 379", "28 U.S.C.A. §§ 2201", "312 U.S. 270"]
+---
+
+# Hawkeye Casualty Co. v. Harper
+
+## Majority (REEVES, Chief Judge.)
+
+REEVES, Chief Judge.
+This is an action for a declaratory judgment. On the 3rd of November, 1947, the plaintiff issued its policy of liability insurance to the defendant Rollin Harper, Butler, Missouri. The policy covered a 1940 Chevrolet One-Half Ton Pick-Up-Truck. It was written in the policy 'that the motor vehicle thus insured or covered was to be used in “business and pleasure Class B.” The occupation of the insured was described as that of a “farmer.” There was attached to said policy a “Special Endorsement” as follows:
+“It is understood and agreed that the ■coverage afforded by the below numbered policy on the 1940 Chevrolet % Ton Pickup Motor #AT 3060849 shall not apply when said vehicle is used for wholesale ■or retail delivery.”
+This endorsement was countersigned November 10, 1947, but was made effective as of the 3rd day of November, 1947, the ■effective date of the original policy.
+On November 26, 1947, the defendant Rollin Harper experienced or suffered an accident, as a result of which the other defendants made claims against «him. Suit was filed in a state court on January 31, 1948, and thereafter the plaintiff instituted this action in this court and asked for a restraining order upon the prosecution of the case in the state court until it could be determined what the liability of the plaintiff was to the defendant, Rollin Harper, in this court. The suit in this court was filed on February 24, 1948. It is the contention of plaintiff that t)he provisions of the endorsement exempt it from liability for the reason, as it i's alleged, that the defendant, Rollin Harper, was in process of delivering merchandise from Butler, Missouri, to a store ‘alt Virginia, ten miles distant from Butler, contrary to the terms of the policy and within the exemption of the endorsement.
+The evidence showed that the said Rollin Harper was engaged, with his son-in-law, in the mercantile business at Virginia, in Bates County, Missouri, as partners, and that the partnership had purchased a quantity of feed at Butler, Missouri, to be -distributed at retail from their store at Virginia. The purchase wa’s made at Butler and a firm check was given for the merchandise. Delivery was made then to the defendant, Rollin Harper, one of the partners who was then acting for and on behalf of the partnership. After such delivery, and while hauling said merchandise from the place of delivery at Butler to the store at Virginia, the accident occurred.
+The only question for determination is whether the defendant was using his truck fo-r wholesale and retail delivery at the time of the accident within the purview of the exemption in the endorsement.
+1. When the purchase of the merchandise was made -it was made by one of the partners and delivery was immediately made. It would not follow, therefore, that the defendant, plaintiff’s policyholder, was engaged -then in wholesale or retail delivery. Unquestionably he would have a right to use his truck for «hauling his own merchandise, after delivery had been made to him, without peril of forfeiting his insurance.
+2. A question has been raised whether the court, under the circumstances should have granted an injunction in the case. In Maryland Casualty Co. v. Pacific Coal & Oil Co. 312 U.S. 270, 61 S.Ct. 510, 513, 85 L.Ed. 826, the Supreme Court held that: “ * * * there is an actual controversy between petitioner and Orteca, and hence, that petitioner’s complaint states a cause of action against the latter. However, our decision does not authorize issuance of the injunction prayed by petitioner. Judicial Code § 265, 28 U.S.C. § 379, 28 U.S. C.A. § 379; * *
+This decision was rendered February 3, 1941. Section 379, Title 28 U.S.C. has been repealed, and Section 2283, Title 28 U.S.C.A. has been in force since September 1, 1948, as follows:
+“A court of the United States may not grant an injunction to stay proceedings in a State court except as expressly authorized by Act of Congress, or where necessary in aid of its jurisdiction, or to protect or effectuate its judgments.”
+It may be doubted whether the injunction in this case was not improvidently granted.
+3. It is the rule that “when a state court and a court of the United States may each take jurisdiction of a matter, the tribunal whose jurisdiction first attaches holds it, to the exclusion of the other, until its duty is fully performed, and the jurisdiction involved is exhausted.” Covell v. Heyman, 111 U.S. 176, 4 S.Ct. 355, 28 L.Ed. 390; Canterbury v. Mandeville, 7 Cir., 130 F.2d 208, loc. cit. 211. In this case while a different question is presented in this court, yet this court interfered with the jurisdiction of the state court after that court had acquired jurisdiction of its matter and before this court acquired jurisdiction of its matter. There should have been no interference. However, it appears that even if such injunction was warranted, the granting of the injunction created an unhappy situation. The litigants in the state court ordinarily would have had a right to proceed with their controversy. Plaintiff, who was not a party to that suit, used the Declaratory Judgment Act, 28 U.S.C.A. §§ 2201, 2202, to bring all of the parties into this court. It became, therefore, a clear cause of forum non conveniens. All of the parties were at Butler, in Bates County, Missouri, where the suit was filed in the state court. It would have been a simple matter for the plaintiff to have asked the trial judge having jurisdiction of the general subject matter to determine for it what its rights were with respect to the defendant, Rollin Harper, its policyholder. It did not do thaJt, but used tihe diversity of citizenship rule to institute a suit in this court and thereby delay the trial of the case in the state court and at the same time to command the time and services of two separate and distinct courts to adjudicate a single controversy.
+At best, the facts in the case and the terms of the policy create an ambiguity and such should be resolved against the policymaker, the insurer, in favor of its policyholder.
+It would follow that th.e judgment in this court 'should be rendered for the defendants and the injunction restraining the proceeding in the state court should be dissolved.
